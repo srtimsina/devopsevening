@@ -3,3 +3,4 @@ This is a new line1
 We are learning git fastforward merge
 Now learning disable ffm
 Automatic merge
+testing the git rebasing
