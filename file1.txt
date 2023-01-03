@@ -6,3 +6,4 @@ Automatic merge
 testing the git rebasing
 Adding some contents before git rebasing conflict
 Some changes on the bigtrouble branch
+Some extra changes after rebase conflict
