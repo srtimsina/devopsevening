@@ -8,3 +8,5 @@ we are learning `git`
 
 ### Learning git ffm
 ### Demo merge conflict
+### some dummy contents
+### Adding some extra changes after rebase
