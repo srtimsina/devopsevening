@@ -4,3 +4,4 @@ We are learning git fastforward merge
 Now learning disable ffm
 Automatic merge
 testing the git rebasing
+Adding some contents before git rebasing conflict
